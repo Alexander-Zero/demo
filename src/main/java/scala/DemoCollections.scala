@@ -65,7 +65,7 @@ object DemoCollections {
 //    println("-----------")
 
     //???
-    list02.++()
+//    list02.++()
     list02.++:(list01)
     list01.foreach(println)
     list02.foreach(println)
